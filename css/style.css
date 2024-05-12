@@ -1,5 +1,5 @@
 header {
-    padding: 20px 50px;
+    padding: 20px 2%;
     display: flex;
     justify-content: space-between;
   }
@@ -33,7 +33,6 @@ ul {
 }
 
 .burger-icon {
-    background-color: orangered;
     display: none !important;
     cursor: pointer;
 }
@@ -42,9 +41,8 @@ ul {
 
     .owl {
         margin-left: 20px;
-        background-size: contain;
-        background-position: center;
-        width: 50%;
+        margin-right: 20px;
+        width: 40%;
     }
 }
 
