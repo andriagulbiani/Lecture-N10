@@ -118,6 +118,7 @@ ul {
     justify-content: space-between;
     max-width: 900px;
     margin-left: 50px;
+    margin-top: 85px;
 
 
     div {
@@ -140,14 +141,6 @@ ul {
         font-size: 17px;
         line-height: 20.07px;  
         color: #636060;
-    }
-
-    .top {
-        margin-top: 84px;
-    }
-
-    .bottom {
-        margin-bottom: 100px;
     }
 }
 
